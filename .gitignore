@@ -129,4 +129,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Icon[]
+Icon[
+]
+
+# Claude Code local context — never commit
+CLAUDE.md
+AGENTS.md
